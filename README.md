@@ -38,7 +38,7 @@ The main objective is to build a predictive model, which could help in predictin
 - description: Description of the talk
 - transcript: Full transcript of the talk
 
-## Target variable: 'views'
+### Dependent variable: 'views'
 
 ## Libraries used:
 1. Pandas for data manipulation and aggregation.
